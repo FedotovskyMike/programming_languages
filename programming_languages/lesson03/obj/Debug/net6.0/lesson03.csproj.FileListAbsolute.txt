@@ -1,0 +1,5 @@
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.csproj.AssemblyReference.cache
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.AssemblyInfoInputs.cache
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.AssemblyInfo.cs
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.csproj.CoreCompileInputs.cache
