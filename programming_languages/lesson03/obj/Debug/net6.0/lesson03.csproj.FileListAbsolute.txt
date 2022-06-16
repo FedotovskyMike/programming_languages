@@ -3,3 +3,13 @@ B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\less
 B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.AssemblyInfoInputs.cache
 B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.AssemblyInfo.cs
 B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.csproj.CoreCompileInputs.cache
+B:\Users\father\Git\lecture\programming_languages\lesson03\bin\Debug\net6.0\lesson03.exe
+B:\Users\father\Git\lecture\programming_languages\lesson03\bin\Debug\net6.0\lesson03.deps.json
+B:\Users\father\Git\lecture\programming_languages\lesson03\bin\Debug\net6.0\lesson03.runtimeconfig.json
+B:\Users\father\Git\lecture\programming_languages\lesson03\bin\Debug\net6.0\lesson03.dll
+B:\Users\father\Git\lecture\programming_languages\lesson03\bin\Debug\net6.0\lesson03.pdb
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.dll
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\refint\lesson03.dll
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.pdb
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\lesson03.genruntimeconfig.cache
+B:\Users\father\Git\lecture\programming_languages\lesson03\obj\Debug\net6.0\ref\lesson03.dll
